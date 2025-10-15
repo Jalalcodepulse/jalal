@@ -60,7 +60,7 @@ function App() {
           width: "300px",
           textAlign: "center",
           backgroundColor: "#333",
-          borderColor: "yellow",
+          borderColor: "black",
           outline: "none",
           transition: "border-color 0.3s",
         }}
